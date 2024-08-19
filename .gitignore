@@ -1,0 +1,4 @@
+*/myconfig.py
+# Ignore Visual Studio files
+.vs/
+
