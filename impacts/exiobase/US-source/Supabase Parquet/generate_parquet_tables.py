@@ -7,7 +7,9 @@ import pandas as pd
 from supabase import create_client, Client
 
 
-# Replace with your actual API key and URL
+# In Supabase the procedure called get_table_names must be created.
+
+
 supabase_url = "https://wovjoodfvamzysoxamdb.supabase.co"
 supabase_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Indvdmpvb2RmdmFtenlzb3hhbWRiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE3NzQ1MDYsImV4cCI6MjAzNzM1MDUwNn0.hHM2aiNfHQe5Z9u-bKDYf7rImf4FnKCoMyoIc3j2uuk"
 
